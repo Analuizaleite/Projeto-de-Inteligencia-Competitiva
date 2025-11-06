@@ -5,7 +5,7 @@ Dashboard web para análise competitiva de açougues usando Google Places API e 
 ## 📋 Sobre o Projeto
 
 Sistema desenvolvido para a disciplina de Tecnologias de Informação e do Conhecimento. 
-A persona criada, o **Sr. João** (proprietário da Casa de Carnes Europa), possui o objetivo de monitorar a satisfação dos clientes e comparar performance com concorrentes locais em Belo Horizonte/MG.
+A persona criada, o **Sr. Carlinhos** (proprietário da Casa de Carnes Europa), possui o objetivo de monitorar a satisfação dos clientes e comparar performance com concorrentes locais em Belo Horizonte/MG.
 
 ### 🎯 Funcionalidades
 
